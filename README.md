@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react and redux**
 
-- 📫 How to reach me **spoocter@gmail.com**
+- 📫 How to reach me **casey.oneil.swe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
